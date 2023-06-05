@@ -24,7 +24,7 @@ To use Sort Visualizer locally, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/sort-visualizer.git
+   git clone https://github.com/DehyaKhurraim/Sort-Visualizee/sort-visualizer.git
    ```
 
 2. Navigate to the cloned directory:
