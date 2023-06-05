@@ -1,0 +1,47 @@
+.mySlides {
+    display: none;
+  }
+    
+body{
+    background-color: white;
+    font-family:cursive;
+}
+
+.header {
+  margin-top: 20px;
+  margin-right: 20vw;
+  margin-left: 20vw;
+  text-align: center;
+  font-size: 40px;
+  background-color: black;
+  color: white;
+  border-radius:19px;
+  font-weight: bolder;
+}
+    
+  .data-container {
+    width: 600px;
+    height: 364px;
+    position: relative;
+    margin: 0 auto;
+  }
+    
+  .bar {
+    width: 28px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color:#6b5b95;
+    transition: 0.2s all ease;
+  }
+    
+  .bar__id {
+    position: absolute;
+    top: -24px;
+    width: 100%;
+    text-align: center;
+  }
+  #ele{
+    text-align: center;
+    height: 35px;
+  }
